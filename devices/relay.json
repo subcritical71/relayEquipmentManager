@@ -365,6 +365,14 @@
                     }
                   },
                   {
+                    "name": "sequent3",
+                    "desc": "Sequent 3 Ind",
+                    "options": {
+                      "idType": "sequent3",
+                      "maxRelays": 3
+                    }
+                  },
+                  {
                     "name": "sequent4",
                     "desc": "Sequent 4",
                     "options": {
